@@ -53,7 +53,7 @@ You can view the project layout through the links below:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/dimasneto7/mymoney && cd dtmoney
+$ git clone https://github.com/dimasneto7/mymoney && cd mymoney
 ```
 
 **Follow the steps below**
