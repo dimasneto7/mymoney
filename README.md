@@ -24,7 +24,7 @@
 
 ## 💲 About the project
 
-[dt money](https://dtmoney.vercel.app/) is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
+[dt money](https://mymoney-pearl.vercel.app/) is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
 
 In this project you can save your transactions and see the total off money.
 
